@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FinTechApp</string>
+    <string name="refresh">Refresh</string>
+    <string name="new_gif">New_gif</string>
+    <string name="last">Последнее</string>
+    <string name="best">Лучшее</string>
+    <string name="hot">Горячее</string>
+    <string name="random">Случайное</string>
+    <string name="gif_animation">Гиф анимация</string>
+    <string name="error_message">Произошла ошибка при загрузке данных. Проверьте подключение к сети.</string>
+    <string name="reconnect_text">ПОВТОРИТЬ</string>
+</resources>
