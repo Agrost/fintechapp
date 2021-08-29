@@ -9,4 +9,6 @@
     <string name="gif_animation">Гиф анимация</string>
     <string name="error_message">Произошла ошибка при загрузке данных. Проверьте подключение к сети.</string>
     <string name="reconnect_text">ПОВТОРИТЬ</string>
+    <string name="change_to_prev_gif">Переход к предыдущей гифке</string>
+    <string name="change_to_next_gif">Переход к следующей гифке</string>
 </resources>
